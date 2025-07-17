@@ -58,4 +58,4 @@ seaborn
 
 openpyxl
 
-📁 Archivo fuente
+data set : https://www.datosabiertos.gob.pe/dataset/listado-de-papeletas-enero-2024-diciembre-2024-municipalidad-provincial-de-arequipa-mpa
